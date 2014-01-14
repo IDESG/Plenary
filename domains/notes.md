@@ -1,19 +1,24 @@
 Domains availble for transfer as part of a transition plan for IDESG include:
 
-## NSTIC RELATED:  
+## NSTIC related:  
 
 * NSTIC.INFO  
 * NSTIC.US  
 
-## PLENARY RELATED:  
+## PLENARY related:  
 
 * PLENARY.ME   
 * PLENARY.TV   
 * PLENARY.US   
 
-## IDESG RELATED:  
+## IDESG related:  
  
 * IDESG.COM  
 * IDESG.ORG   
 * IDESG.US    
 * IDESG.INFO   
+
+## IDESG Trade Association Related:
+
+* idesgia.com  
+* idesgia.org  
